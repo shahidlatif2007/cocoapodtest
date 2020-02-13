@@ -22,7 +22,7 @@ pod 'MyLibrary'
 
 ## Author
 
-Shahid Latif, s.latif@mohre.gov.ae
+Shahid Latif, shahidlatif2005@gmail.com
 
 ## License
 
