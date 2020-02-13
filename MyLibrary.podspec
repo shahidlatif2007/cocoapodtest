@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 It is just sample for checking only how pod creation works.
                        DESC
 
-  s.homepage         = 'https://github.com/shahidlatif2007/'
+  s.homepage         = 'https://github.com/shahidlatif2007/cocoapodtest.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Shahid Latif' => 'shahidlatif2005@gmail.com' }
