@@ -25,7 +25,7 @@ It is just sample for checking only how pod creation works.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Shahid Latif' => 'shahidlatif2005@gmail.com' }
-  s.source           = { :git => 'https://github.com/shahidlatif2007/cocoapodtest.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/shahidlatif2007/cocoapodtest.git' }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
   s.swift_versions = '4.0'
   s.ios.deployment_target = '8.0'
